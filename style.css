@@ -55,3 +55,20 @@ footer {
     color: white;
     padding: 20px;
 }
+
+.enquiry-btn {
+    display: inline-block;
+    margin-top: 15px;
+    background: #0b6e4f;
+    color: white;
+    text-decoration: none;
+    padding: 14px 28px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.enquiry-btn:hover {
+    transform: translateY(-2px);
+}
