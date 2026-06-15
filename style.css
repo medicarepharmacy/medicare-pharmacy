@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
     line-height: 1.6;
     background: #f4f7f9;
 }
@@ -176,4 +176,9 @@ background: white;
 
 .enquiry button:hover {
     background: #a91f1f;
+}
+
+h1, h2, h3 {
+    font-weight: 600;
+    letter-spacing: 0.3px;
 }
