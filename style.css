@@ -72,3 +72,10 @@ footer {
 .enquiry-btn:hover {
     transform: translateY(-2px);
 }
+
+.logo {
+    width: 180px;
+    max-width: 80%;
+    display: block;
+    margin: 0 auto 15px;
+}
