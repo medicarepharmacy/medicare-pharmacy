@@ -143,3 +143,37 @@ border: none;
 border-radius: 12px;
 background: white;
 }
+
+.enquiry {
+    padding: 40px 20px;
+    max-width: 600px;
+    margin: auto;
+}
+
+.enquiry form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.enquiry input,
+.enquiry textarea {
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+.enquiry button {
+    background: #c62828;
+    color: white;
+    border: none;
+    padding: 14px;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.enquiry button:hover {
+    background: #a91f1f;
+}
