@@ -110,3 +110,30 @@ padding: 14px 28px;
 border-radius: 10px;
 font-weight: bold;
 }
+
+.stats {
+display: flex;
+justify-content: center;
+gap: 20px;
+flex-wrap: wrap;
+padding: 30px 20px;
+background: #fff3f3;
+}
+
+.stat-box {
+background: white;
+padding: 20px;
+border-radius: 12px;
+min-width: 180px;
+text-align: center;
+box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.stat-box h2 {
+color: #c62828;
+margin: 0;
+}
+
+.stat-box p {
+margin-top: 10px;
+}
