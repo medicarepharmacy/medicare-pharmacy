@@ -137,3 +137,9 @@ margin: 0;
 .stat-box p {
 margin-top: 10px;
 }
+
+iframe {
+border: none;
+border-radius: 12px;
+background: white;
+}
